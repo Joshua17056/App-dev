@@ -50,15 +50,6 @@ Did you know? The Haunting of Hill House features hidden ghosts in the backgroun
 
 ---
 
-### 👨‍💻 Project Information
-
-- **Created by:** Josh
-- **Course:** BSIT
-- **Subject:** Application Development
-- **Repository:** app-dev
-- **Branch:** readme-edits
-
----
 
 **Thanks for visiting the Horror Zone!**
 
